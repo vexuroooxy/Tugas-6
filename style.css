@@ -30,6 +30,7 @@ body {
   border: none;
   background-color: lightseagreen;
   color: white;
+  cursor: pointer;
 }
 .inbox button:hover {
   background-color: teal;
